@@ -1,0 +1,9 @@
+{
+  "name": "network-me",
+  "version": "1.0.0",
+  "description": "list network list, share, unit test code for [php, javascript, java], re-play again, export all, create api document, store localy with indexDB",
+  "main": "manifest.json",
+  "repository": "git@github.com:dineshrabara/network-me.git",
+  "author": "Dinesh Rabara <dinesh.rabara@gmail.com>",
+  "license": "MIT"
+}
