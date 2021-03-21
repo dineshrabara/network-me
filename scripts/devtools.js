@@ -12,8 +12,5 @@ chrome.devtools.network.onRequestFinished.addListener(
 
 chrome.devtools.panels.create("Network-ME",
     "icons/16.png",
-    "panel.html",
-    function (panel) {
-        // code invoked on panel creation
-    }
+    "pages/panel.html"
 );
